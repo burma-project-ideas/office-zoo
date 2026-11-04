@@ -2,7 +2,7 @@
 
 **Office Zoo က Harry Hein ရဲ့ project ပါ။** [မူရင်း app](https://office-zoo.vercel.app/) ကို ကြည့်ပြီး လေ့လာနိုင်ပါတယ်။ ဒီ repository ကိုလည်း နောက်လာမယ့်သူတွေ ကိုယ်ပိုင် project ရေးတဲ့အခါ လေ့လာလို့ရအောင်၊ idea ယူလို့ရအောင် ထားပေးထားတာပါ။
 
-[OfficeZoo.json](OfficeZoo.json) ထဲက data တွေနဲ့ ကိုယ်ကြိုက်တဲ့ programming language ကို သုံးပြီး Web၊ Mobile၊ Desktop app ရေးနိုင်ပါတယ်။ ရေးသားပုံနဲ့ workflow ရှင်းပြပုံကို [Burma Project Ideas](https://github.com/burma-project-ideas) ရဲ့ [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs) နဲ့ [Dream Dictionary](https://github.com/burma-project-ideas/dream-dictionary) project တွေလို လေ့လာရလွယ်အောင် ပြင်ဆင်ထားပါတယ်။ ဒီ repository က အဲ့ဒီ organization ရဲ့ project တော့ မဟုတ်ပါဘူး။
+[OfficeZoo.json](OfficeZoo.json) ထဲက data တွေနဲ့ ကိုယ်ကြိုက်တဲ့ programming language ကို သုံးပြီး Web၊ Mobile၊ Desktop app ရေးနိုင်ပါတယ်။ ရေးသားပုံနဲ့ workflow ရှင်းပြပုံကို [Burma Project Ideas](https://github.com/burma-project-ideas) ရဲ့ [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs) နဲ့ [Dream Dictionary](https://github.com/burma-project-ideas/dream-dictionary) project တွေလို လေ့လာရလွယ်အောင် ပြင်ဆင်ထားပါတယ်။ ဒီ repository ကို Burma Project Ideas organization အောက်မှာ ထားရှိထားပါတယ်။
 
 ## အကျဉ်းချုပ်
 
