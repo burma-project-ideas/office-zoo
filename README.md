@@ -168,7 +168,7 @@ console.log(score, verdict.my);
 console.log(zoo.relationships[you]?.[them]?.dynamicMm);
 ```
 
-ဒီ Repository က Private ဖြစ်လို့ Login မလိုတဲ့ Raw GitHub URL နဲ့ Data ကို တိုက်ရိုက် Fetch လုပ်လို့ မရပါဘူး။ JSON ဖိုင်ကို ကိုယ့် Project ထဲမှာ ထည့်သုံးပါ၊ ဒါမှမဟုတ် အပေါ်ကလို Local Server ကနေ ဖတ်ပါ။
+ဒီ Repository က Public ဖြစ်လို့ [Raw JSON URL](https://raw.githubusercontent.com/burma-project-ideas/office-zoo/main/OfficeZoo.json) ကနေ Login မလိုဘဲ Data ကို ဖတ်နိုင်ပါတယ်။ JSON ဖိုင်ကို ကိုယ့် Project ထဲမှာ ထည့်သုံးတာ၊ အပေါ်ကလို Local Server ကနေ ဖတ်တာလည်း လုပ်နိုင်ပါတယ်။
 
 ## Result တွက်ပုံ
 
