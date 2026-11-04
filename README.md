@@ -1,6 +1,6 @@
 # Office Zoo
 
-**Office Zoo က Harry Hein ရဲ့ project ပါ။** [မူရင်း app](https://office-zoo.vercel.app/) ကို ကြည့်ပြီး လေ့လာနိုင်ပါတယ်။ ဒီ repository ကိုလည်း နောက်လာမယ့်သူတွေ ကိုယ်ပိုင် project ရေးတဲ့အခါ လေ့လာလို့ရအောင်၊ idea ယူလို့ရအောင် ထားပေးထားတာပါ။
+**Office Zoo က [Harry Hein](https://github.com/kaungmyathein) ရဲ့ project ပါ။** [မူရင်း app](https://office-zoo.vercel.app/) ကို ကြည့်ပြီး လေ့လာနိုင်ပါတယ်။ ဒီ repository ကိုလည်း နောက်လာမယ့်သူတွေ ကိုယ်ပိုင် project ရေးတဲ့အခါ လေ့လာလို့ရအောင်၊ idea ယူလို့ရအောင် ထားပေးထားတာပါ။
 
 [OfficeZoo.json](OfficeZoo.json) ထဲက data တွေနဲ့ ကိုယ်ကြိုက်တဲ့ programming language ကို သုံးပြီး Web၊ Mobile၊ Desktop app ရေးနိုင်ပါတယ်။ ရေးသားပုံနဲ့ workflow ရှင်းပြပုံကို [Burma Project Ideas](https://github.com/burma-project-ideas) ရဲ့ [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs) နဲ့ [Dream Dictionary](https://github.com/burma-project-ideas/dream-dictionary) project တွေလို လေ့လာရလွယ်အောင် ပြင်ဆင်ထားပါတယ်။ ဒီ repository ကို Burma Project Ideas organization အောက်မှာ ထားရှိထားပါတယ်။
 
@@ -91,7 +91,7 @@ Data အားလုံးကို [OfficeZoo.json](OfficeZoo.json) ကနေ �
 
 | Field | အသုံးပြုပုံ |
 | --- | --- |
-| `project` | Project နာမည်၊ Harry Hein ရဲ့ Credit၊ Website နဲ့ ဘာသာစကားများ |
+| `project` | Project နာမည်၊ [Harry Hein](https://github.com/kaungmyathein) ရဲ့ Credit၊ Website နဲ့ ဘာသာစကားများ |
 | `animalOrder` | Animal ပြမယ့်အစီအစဉ်နဲ့ Quiz Score တူရင် ဦးစားပေးမယ့်အစီအစဉ် |
 | `animals` | Animal ID နဲ့ ရှာနိုင်တဲ့ Profile၊ အားသာချက်နဲ့ Trait တန်ဖိုးများ |
 | `traits` | Trait ၆ ခုရဲ့ Key နဲ့ Label များ |
@@ -212,6 +212,6 @@ Animal ID တွေ၊ Question ID ထပ်နေတာရှိမရှိ၊
 
 ## Credit
 
-Project နဲ့ Content အတွက် **Harry Hein** ကို Credit ပေးပါတယ် — [Office Zoo](https://office-zoo.vercel.app/)။
+Project နဲ့ Content အတွက် **[Harry Hein](https://github.com/kaungmyathein)** ကို Credit ပေးပါတယ် — [Office Zoo](https://office-zoo.vercel.app/)။
 
 Project ကို လေ့လာရလွယ်အောင် ရှင်းပြတဲ့ပုံစံအတွက် **Burma Project Ideas** ကို အခြေခံထားပါတယ်။ ဒီ Credit ဖော်ပြချက်က Content ကို ပြန်လည်ဖြန့်ဝေဖို့ License ပေးထားတာ မဟုတ်ပါဘူး။
