@@ -1,0 +1,140 @@
+[
+  {
+    "url": "https://office-zoo.vercel.app/",
+    "file": "site\\index.html",
+    "bytes": 2349,
+    "sha256": "de1fecf92539a5e35bc096314ca3411866e82f551fd0de813e067d13bd6205d5"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/apple-touch-icon.png",
+    "file": "site\\apple-touch-icon.png",
+    "bytes": 35933,
+    "sha256": "e6fe1fd8b5e55bcae14b50d205304d569b2782d5ac7cc47ba3572f51beb4c03d"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/assets/index-Br8KxAOC.css",
+    "file": "site\\assets\\index-Br8KxAOC.css",
+    "bytes": 68044,
+    "sha256": "1bd5c079b7d078930885e11976af0ab450bd544c77a319bdf096c0229ac9f620"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/favicon.svg",
+    "file": "site\\favicon.svg",
+    "bytes": 368,
+    "sha256": "3bfb3c09c17bd1ffc205f6e4dee1cb6ea44df43dae1f518c4fda5a17f7c078de"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/assets/index-DKmLcWKw.js",
+    "file": "site\\assets\\index-DKmLcWKw.js",
+    "bytes": 523742,
+    "sha256": "1e42d3e349bb1e30e244a011c68e9e6cbd6956bab63086b4c9de274b3884513b"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/bee.webp",
+    "file": "site\\cards\\avatars\\bee.webp",
+    "bytes": 17174,
+    "sha256": "3c11c09550e4113c659c33148f09c14413f0b13218a22ffd55873e7c37d78b46"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/leopard.webp",
+    "file": "site\\cards\\avatars\\leopard.webp",
+    "bytes": 27764,
+    "sha256": "16f2402682c20ec22f0c833f0046971651e20a5bff8d7c2753bad03c86dae4ad"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/owl.webp",
+    "file": "site\\cards\\avatars\\owl.webp",
+    "bytes": 19252,
+    "sha256": "8e2606c46d34b26e7254771b563679c6bb31bb153420704b31e85bcf58fd3bd1"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/hippo.webp",
+    "file": "site\\cards\\avatars\\hippo.webp",
+    "bytes": 15986,
+    "sha256": "6ec4e19a2341625b6ac0947c82e2487c5da68d3751316fea09c39e86edae62b5"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/bull.webp",
+    "file": "site\\cards\\avatars\\bull.webp",
+    "bytes": 20868,
+    "sha256": "3655eb9dcb11e955003471deefef3a3abe5d2e540ff6bea249320c4e539089bd"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/peacock.webp",
+    "file": "site\\cards\\avatars\\peacock.webp",
+    "bytes": 31124,
+    "sha256": "3f43419beb4b30f37bc733567deb20013485d74bd30669f35206c444fd395191"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/sloth.webp",
+    "file": "site\\cards\\avatars\\sloth.webp",
+    "bytes": 13304,
+    "sha256": "921558d78082104927d5fd3647556c63a678d911b80e0619b5cd4d94b3fef0ff"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/avatars/snake.webp",
+    "file": "site\\cards\\avatars\\snake.webp",
+    "bytes": 15592,
+    "sha256": "2ce1f023bd99636de07be6db69f1c8140fe7da421fe62386c53005861dbdbbbb"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/back.webp",
+    "file": "site\\cards\\back.webp",
+    "bytes": 85144,
+    "sha256": "2e45f4efdf2fdb68ae827b6155957b7e5d32b845f6e2f93f4f0847bf0ce9d026"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/bull.webp",
+    "file": "site\\cards\\bull.webp",
+    "bytes": 80378,
+    "sha256": "8aef5fcba4740c51d5fe678c87621148fd5605239eaa0002f9298c17b0e1367f"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/bee.webp",
+    "file": "site\\cards\\bee.webp",
+    "bytes": 65518,
+    "sha256": "d72b28d7477df6316959a7bd85a441b0d3600092d03b929f4b6906a33a27fc25"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/hippo.webp",
+    "file": "site\\cards\\hippo.webp",
+    "bytes": 99856,
+    "sha256": "9233085371f55668fb164fc07087031ca990b713eb9bc3d349e428616271a779"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/owl.webp",
+    "file": "site\\cards\\owl.webp",
+    "bytes": 71032,
+    "sha256": "a6c007a99f06adad326e757379311d291f486058bae71b8e74d3ead8715020d4"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/leopard.webp",
+    "file": "site\\cards\\leopard.webp",
+    "bytes": 104620,
+    "sha256": "774c79178b6445a1c070955f5bad031ff296fe8e30abbbf152ccc5e82b25db4d"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/snake.webp",
+    "file": "site\\cards\\snake.webp",
+    "bytes": 67938,
+    "sha256": "272c7b075d0c92662494fcbd5809f7c831c1890301dd88911d8582fd9afca0c4"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/sloth.webp",
+    "file": "site\\cards\\sloth.webp",
+    "bytes": 48030,
+    "sha256": "14b10498a9e607c781742800dc8882fdc58b08232ed9b378db0dbf330cc2224a"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/cards/peacock.webp",
+    "file": "site\\cards\\peacock.webp",
+    "bytes": 119508,
+    "sha256": "23bd6235df810c98b14bb5766285667dbdc2aa47a2236fd8091f683423b2b56a"
+  },
+  {
+    "url": "https://office-zoo.vercel.app/og.png",
+    "file": "site\\og.png",
+    "bytes": 682823,
+    "sha256": "96f55ce6e6cc138804b8b50e0225b4f91f9ffb7c91410aadfa54021fb55c9d5e"
+  }
+]

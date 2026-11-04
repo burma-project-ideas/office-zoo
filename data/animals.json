@@ -1,0 +1,314 @@
+{
+  "bee": {
+    "id": "bee",
+    "emoji": "🐝",
+    "name": "Bee",
+    "mm": "ပျားပိတုန်း",
+    "tagline": "The Nurturer",
+    "taglineMm": "ဂရုစိုက်ဖေးမသူ",
+    "color": "var(--a-bee)",
+    "blurb": "People-first collaborator. Builds harmony, translates hard messages humanely, and keeps the team together.",
+    "blurbMm": "လူတွေကို အမြဲဦးစားပေးပြီး ပူးပေါင်းလုပ်ဆောင်တတ်သူပါ။ အဖွဲ့ထဲမှာ အဆင်ပြေညီညွတ်အောင် တည်ဆောက်ပေးတယ်၊ ခက်ခဲတဲ့စကားတွေကို နားလည်ပေးနိုင်အောင် ပြောပြပေးပြီး အားလုံးကို တစည်းတလုံးတည်းဖြစ်အောင် စုစည်းပေးပါတယ်။",
+    "traits": {
+      "people": 95,
+      "pace": 45,
+      "assert": 30,
+      "analysis": 45,
+      "visibility": 35,
+      "adapt": 80
+    },
+    "strengths": [
+      "Builds trust and psychological safety fast",
+      "Reads emotional undercurrents others miss",
+      "Turns conflict into consensus"
+    ],
+    "strengthsMm": [
+      "ယုံကြည်မှုနဲ့ စိတ်ပိုင်းဆိုင်ရာ လုံခြုံနွေးထွေးမှုကို မြန်မြန်ဆန်ဆန် တည်ဆောက်နိုင်တယ်",
+      "တခြားသူတွေ သတိမထားမိတဲ့ စိတ်ခံစားချက်တွေကို အကဲခတ်နိုင်တယ်",
+      "သဘောထားကွဲလွဲမှုတွေကို အားလုံးသဘောတူညီမှုရအောင် ပြောင်းလဲပေးနိုင်တယ်"
+    ],
+    "watchouts": [
+      "Absorbs pressure silently until burnout",
+      "Avoids hard confrontations too long",
+      "Contributions can go unseen without visibility"
+    ],
+    "watchoutsMm": [
+      "စိတ်ရောကိုယ်ပါ ပင်ပန်းသွားတဲ့အထိ ဖိအားတွေကို တိတ်တဆိတ် ကြိတ်ခံတတ်တယ်",
+      "ထိပ်တိုက်ရင်ဆိုင်ရမယ့် ကိစ္စတွေကို အချိန်အကြာကြီး ရှောင်လွှဲနေတတ်တယ်",
+      "ကိုယ်လုပ်ခဲ့တာတွေကို ထုတ်မပြရင် အသိအမှတ်ပြုမခံရဘဲ ဖြစ်သွားတတ်တယ်"
+    ]
+  },
+  "hippo": {
+    "id": "hippo",
+    "emoji": "🦛",
+    "name": "Hippo",
+    "mm": "ရေမြင်း",
+    "tagline": "The Authority",
+    "taglineMm": "သြဇာကြီးမားသူ",
+    "color": "var(--a-hippo)",
+    "blurb": "Power and hierarchy. Commands the room, makes decisions by rank, and expects the org to move on their word.",
+    "blurbMm": "အာဏာနဲ့ ရာထူးကို အဓိကထားတတ်သူပါ။ လူတိုင်းကို လွှမ်းမိုးနိုင်ပြီး ရာထူးအဆင့်အရ ဆုံးဖြတ်ချက်ချတတ်ကာ သူ့စကားတစ်ခွန်းတည်းနဲ့ အဖွဲ့တစ်ခုလုံးကို လှုပ်ရှားစေချင်ပါတယ်။",
+    "traits": {
+      "people": 40,
+      "pace": 60,
+      "assert": 95,
+      "analysis": 40,
+      "visibility": 75,
+      "adapt": 35
+    },
+    "strengths": [
+      "Decisive. Cuts through noise quickly",
+      "Clears political obstacles with authority",
+      "Provides clear direction under pressure"
+    ],
+    "strengthsMm": [
+      "ပြတ်သားတယ်။ မလိုအပ်တဲ့ အရှုပ်အထွေးတွေကို မြန်မြန်ဆန်ဆန် ဖယ်ရှားပေးနိုင်တယ်။",
+      "သူ့ရဲ့သြဇာအာဏာကိုသုံးပြီး ရုံးတွင်း အတားအဆီးတွေကို ရှင်းလင်းပေးနိုင်တယ်။",
+      "ဖိအားတွေကြားထဲမှာတောင် တိကျတဲ့ လမ်းညွှန်မှုတွေ ပေးနိုင်တယ်။"
+    ],
+    "watchouts": [
+      "Creates emotional ripples they never notice",
+      "Mistakes agreement for genuine alignment",
+      "Overrides better ideas with seniority"
+    ],
+    "watchoutsMm": [
+      "သူတို့ကိုယ်တိုင် သတိမထားမိဘဲ တခြားသူတွေရဲ့ ခံစားချက်တွေကို ထိခိုက်ဂယက်ရိုက်စေတတ်တယ်။",
+      "သဘောတူလိုက်တာကိုပဲ တကယ် စိတ်တူကိုယ်တူရှိတယ်လို့ အထင်မှားတတ်တယ်။",
+      "ရာထူးနဲ့လုပ်သက်ကို အားကိုးပြီး ပိုကောင်းတဲ့ အကြံဉာဏ်တွေကို ပယ်ချတတ်တယ်။"
+    ]
+  },
+  "leopard": {
+    "id": "leopard",
+    "emoji": "🐆",
+    "name": "Leopard",
+    "mm": "ကျားသစ်",
+    "tagline": "The Machine",
+    "taglineMm": "စက်",
+    "color": "var(--a-leopard)",
+    "blurb": "Output over everything. Fast, relentless, results-driven. Optimizes for the scoreboard.",
+    "blurbMm": "ရလဒ်ထွက်ဖို့က နံပါတ်တစ်ပဲ။ မြန်ဆန်တယ်၊ မမောနိုင်မပန်းနိုင်လုပ်တယ်၊ ရလဒ်ကိုပဲ အဓိကကြည့်တယ်။ အမှတ်အများဆုံးရဖို့အတွက် အမြဲအားထုတ်နေတတ်ပါတယ်။",
+    "traits": {
+      "people": 35,
+      "pace": 95,
+      "assert": 80,
+      "analysis": 55,
+      "visibility": 55,
+      "adapt": 60
+    },
+    "strengths": [
+      "Ships results faster than anyone",
+      "Turns strategy into execution instantly",
+      "High tolerance for pressure and pace"
+    ],
+    "strengthsMm": [
+      "တခြားသူတွေထက် ရလဒ်ကို ပိုမြန်မြန်ထုတ်ပေးနိုင်တယ်",
+      "စီစဉ်ထားတာတွေကို ချက်ချင်းလက်တွေ့အကောင်အထည်ဖော်တယ်",
+      "ဖိအားတွေနဲ့ အလုပ်များတဲ့ဒဏ်ကို ကောင်းကောင်းခံနိုင်ရည်ရှိတယ်"
+    ],
+    "watchouts": [
+      "Outruns the team, burns morale",
+      "Skips human layer and consensus",
+      "Speed can outrun due diligence"
+    ],
+    "watchoutsMm": [
+      "အဖွဲ့ထက်အရမ်းမြန်နေလို့ တခြားသူတွေ စိတ်ဓာတ်ကျသွားနိုင်တယ်",
+      "လူမှုဆက်ဆံရေးနဲ့ အများသဘောတူညီချက်တွေကို ကျော်ချသွားတတ်တယ်",
+      "အရမ်းမြန်လွန်းတဲ့အတွက် သေချာစစ်ဆေးဖို့ လွတ်သွားတတ်တယ်"
+    ]
+  },
+  "peacock": {
+    "id": "peacock",
+    "emoji": "🦚",
+    "name": "Peacock",
+    "mm": "ဒေါင်း",
+    "tagline": "The Self-Promoter",
+    "taglineMm": "အမြဲထင်ပေါ်ချင်သူ",
+    "color": "var(--a-peacock)",
+    "blurb": "Charisma and optics. Owns the spotlight, tells the story, and makes ideas land with style.",
+    "blurbMm": "ဆွဲဆောင်မှုရှိပြီး အမြင်လှအောင် လုပ်တတ်တယ်။ အမြဲနေရာယူတတ်ပြီး၊ စကားပြောကောင်းသလို အိုင်ဒီယာတွေကိုလည်း စတိုင်ကျကျ ချပြနိုင်ပါတယ်။",
+    "traits": {
+      "people": 65,
+      "pace": 65,
+      "assert": 60,
+      "analysis": 35,
+      "visibility": 95,
+      "adapt": 60
+    },
+    "strengths": [
+      "Makes ideas compelling and memorable",
+      "Builds relationship capital across the org",
+      "Energizes launches, pitches and events"
+    ],
+    "strengthsMm": [
+      "အိုင်ဒီယာတွေကို စိတ်ဝင်စားစရာကောင်းပြီး လူတွေအမှတ်ရနေအောင် လုပ်ပေးနိုင်တယ်။",
+      "ရုံးတွင်းမှာ အဆက်အသွယ်ကောင်းတွေ တည်ဆောက်နိုင်တယ်။",
+      "ပရောဂျက်အသစ်တွေ၊ ပရီဇင်တေးရှင်းတွေနဲ့ ပွဲတွေမှာ တက်ကြွအောင် အားဖြည့်ပေးနိုင်တယ်။"
+    ],
+    "watchouts": [
+      "Takes credit for collaborative wins",
+      "Exaggerates for effect, eroding trust",
+      "Style can outrun real substance"
+    ],
+    "watchoutsMm": [
+      "အဖွဲ့လိုက် အောင်မြင်မှုတွေကို ကိုယ့်နာမည်တပ်ပြီး နေရာယူတတ်တယ်။",
+      "ပိုပိုသာသာတွေ ပြောတတ်လို့ လူတွေရဲ့ ယုံကြည်မှုကို လျော့ကျစေတယ်။",
+      "တကယ့်အနှစ်သာရထက် အပြင်ပန်းစတိုင်က ပိုများနေတတ်တယ်။"
+    ]
+  },
+  "snake": {
+    "id": "snake",
+    "emoji": "🐍",
+    "name": "Snake",
+    "mm": "မြွေ",
+    "tagline": "The Operator",
+    "taglineMm": "အကွက်မြင်တဲ့သူ",
+    "color": "var(--a-snake)",
+    "blurb": "Covert political power. Reads the board, holds information strategically, and moves before others see it.",
+    "blurbMm": "ရုံးတွင်းမှာ နောက်ကွယ်ကနေ ဩဇာညောင်းတဲ့သူပါ။ အခြေအနေကို သေချာဖတ်တတ်တယ်၊ သတင်းအချက်အလက်တွေကို ဗျူဟာကျကျ ထိန်းချုပ်ထားပြီး တခြားသူတွေ မရိပ်မိခင် ကြိုလှုပ်ရှားတတ်ပါတယ်။",
+    "traits": {
+      "people": 55,
+      "pace": 55,
+      "assert": 55,
+      "analysis": 85,
+      "visibility": 25,
+      "adapt": 65
+    },
+    "strengths": [
+      "Sees political landmines before anyone",
+      "Excellent intelligence and network read",
+      "Positions calmly for the long game"
+    ],
+    "strengthsMm": [
+      "ပြဿနာဖြစ်နိုင်တဲ့ အခြေအနေတွေကို သူများထက်အရင် ကြိုမြင်တယ်",
+      "သတင်းရယူနိုင်စွမ်းနဲ့ လူတွေရဲ့ အချိတ်အဆက်ကို နားလည်နိုင်စွမ်း အရမ်းကောင်းတယ်",
+      "ရေရှည်အောင်မြင်မှုအတွက် အေးအေးဆေးဆေး ကြိုတင်နေရာယူထားတတ်တယ်"
+    ],
+    "watchouts": [
+      "Trust is transactional, not given",
+      "Files away your overshares for later",
+      "Opacity can breed suspicion"
+    ],
+    "watchoutsMm": [
+      "ယုံကြည်မှုကို အလွယ်တကူ မပေးဘဲ အပေးအယူလုပ်လေ့ရှိတယ်",
+      "သင် စကားလွန်သွားတာတွေကို မှတ်ထားပြီး လိုအပ်တဲ့အခါ ပြန်အသုံးချတတ်တယ်",
+      "သိပ်လျှို့ဝှက်လွန်းရင် တခြားသူတွေက သံသယဝင်တတ်ပါတယ်"
+    ]
+  },
+  "bull": {
+    "id": "bull",
+    "emoji": "🐂",
+    "name": "Bull",
+    "mm": "နွားထီး",
+    "tagline": "The Charger",
+    "taglineMm": "တဟုန်ထိုးတက်မယ့်သူ",
+    "color": "var(--a-bull)",
+    "blurb": "Conviction and momentum. Decides fast, charges hard, and rarely yields once committed.",
+    "blurbMm": "ယုံကြည်ချက်အပြည့်နဲ့ ရှေ့ကိုအရှိန်အဟုန်နဲ့ တိုးမယ့်သူပါ။ ဆုံးဖြတ်ချက်မြန်မြန်ချပြီး အားနဲ့ခုတ်မောင်းတတ်သလို၊ တစ်ခါဆုံးဖြတ်ပြီးရင်တော့ နောက်ဆုတ်ပေးဖို့ ခဲယဉ်းပါတယ်။",
+    "traits": {
+      "people": 35,
+      "pace": 90,
+      "assert": 90,
+      "analysis": 30,
+      "visibility": 60,
+      "adapt": 25
+    },
+    "strengths": [
+      "Creates unstoppable momentum when right",
+      "Decisive under uncertainty",
+      "Rallies energy behind a direction"
+    ],
+    "strengthsMm": [
+      "လမ်းကြောင်းမှန်သွားရင် တားမရဆီးမရတဲ့ အရှိန်အဟုန်ကို ဖန်တီးပေးနိုင်တယ်",
+      "မရေရာတဲ့အခြေအနေတွေမှာတောင် ပြတ်ပြတ်သားသား ဆုံးဖြတ်နိုင်တယ်",
+      "ဦးတည်ချက်တစ်ခုအတွက် အားလုံးရဲ့စွမ်းအင်ကို စုစည်းပေးနိုင်တယ်"
+    ],
+    "watchouts": [
+      "Charges past valid concerns",
+      "Mistakes conviction for correctness",
+      "Digs in when publicly challenged"
+    ],
+    "watchoutsMm": [
+      "တကယ်စဉ်းစားသင့်တဲ့ အကြံပြုချက်တွေကို လျစ်လျူရှုပြီး တိုးတတ်တယ်",
+      "ကိုယ့်ယုံကြည်ချက်ကိုပဲ အမှန်တရားလို့ အထင်မှားတတ်တယ်",
+      "အများရှေ့မှာ အဝေဖန်ခံရရင် လုံးဝအလျှော့မပေးဘဲ တင်းခံတတ်တယ်"
+    ]
+  },
+  "owl": {
+    "id": "owl",
+    "emoji": "🦉",
+    "name": "Owl",
+    "mm": "ဇီးကွက်",
+    "tagline": "The Analyst",
+    "taglineMm": "စေ့စေ့စပ်စပ်စိစစ်သူ",
+    "color": "var(--a-owl)",
+    "blurb": "Evidence over intuition. Verifies, models, and catches the risks before they become problems.",
+    "blurbMm": "ထင်မြင်ချက်ထက် ခိုင်လုံတဲ့အထောက်အထားကိုပဲ ပိုယုံကြည်ပါတယ်။ ပြဿနာတွေမဖြစ်လာခင် ကြိုတင်တွက်ချက်၊ စိစစ်ပြီး အန္တရာယ်တွေကို ကာကွယ်ပေးမယ့်သူပါ။",
+    "traits": {
+      "people": 50,
+      "pace": 30,
+      "assert": 40,
+      "analysis": 95,
+      "visibility": 30,
+      "adapt": 45
+    },
+    "strengths": [
+      "Catches costly mistakes before they land",
+      "Brings rigor and credibility to decisions",
+      "Thinks deeply and thoroughly"
+    ],
+    "strengthsMm": [
+      "နစ်နာမှုများနိုင်တဲ့ အမှားတွေကို မဖြစ်ခင်ကြိုတင်တားဆီးပေးနိုင်တယ်",
+      "ဆုံးဖြတ်ချက်တွေချတဲ့အခါ ပိုပြီးတိကျခိုင်မာစေတယ်",
+      "အရာရာကို စေ့စေ့စပ်စပ်နဲ့ နက်နက်နဲနဲ စဉ်းစားတွေးခေါ်တတ်တယ်"
+    ],
+    "watchouts": [
+      "Analysis can become a bottleneck",
+      "Risk of paralysis. Waits for perfect data",
+      "May overlook human impact in models"
+    ],
+    "watchoutsMm": [
+      "အသေးစိတ်လေ့လာစိစစ်လွန်းတာကြောင့် အလုပ်ကြန့်ကြာသွားတတ်တယ်",
+      "အချက်အလက်အပြည့်အစုံရတဲ့အထိ စောင့်နေတတ်လို့ ရှေ့ဆက်မတိုးနိုင်ဘဲ ဖြစ်သွားနိုင်တယ်",
+      "တွက်ချက်မှုတွေအပေါ်ပဲ အာရုံစိုက်လွန်းလို့ လူတွေအပေါ်သက်ရောက်မှုကို မေ့လျော့သွားတတ်တယ်"
+    ]
+  },
+  "sloth": {
+    "id": "sloth",
+    "emoji": "🦥",
+    "name": "Sloth",
+    "mm": "လိပ်ခွေ",
+    "tagline": "The Anchor",
+    "taglineMm": "ကျောက်ဆူးကြီး",
+    "color": "var(--a-sloth)",
+    "blurb": "Stability and resistance. Holds institutional memory, questions change, and moves on their own timeline.",
+    "blurbMm": "တည်ငြိမ်ပြီး အပြောင်းအလဲကို သိပ်လက်မခံချင်သူပါ။ ရုံးရဲ့ အရင်ကအကြောင်းတွေ အကုန်သိတယ်။ အပြောင်းအလဲလုပ်မယ်ဆိုရင် မေးခွန်းထုတ်တတ်ပြီး သူ့အရှိန်နဲ့သူပဲ သွားတတ်ပါတယ်။",
+    "traits": {
+      "people": 55,
+      "pace": 15,
+      "assert": 25,
+      "analysis": 55,
+      "visibility": 20,
+      "adapt": 15
+    },
+    "strengths": [
+      "Institutional memory. Remembers why",
+      "Caution catches impulsive mistakes",
+      "Steady, hard to rattle under pressure"
+    ],
+    "strengthsMm": [
+      "ရုံးရဲ့ သမိုင်းမှတ်တမ်းပါ။ ဘာလို့ဒီလိုဖြစ်ခဲ့လဲဆိုတာကို အကုန်မှတ်မိတယ်။",
+      "သတိကြီးလို့ စိတ်လိုက်မာန်ပါလုပ်မိတဲ့ အမှားတွေကို တားဆီးပေးနိုင်တယ်။",
+      "ဖိအားတွေကြားထဲမှာတောင် မတုန်လှုပ်ဘဲ အေးဆေးတည်ငြိမ်တယ်။"
+    ],
+    "watchouts": [
+      "Resists change until momentum dies",
+      "Passive resistance is hard to fight",
+      "Delay can become permanent inaction"
+    ],
+    "watchoutsMm": [
+      "အရှိန်သေသွားတဲ့အထိ အပြောင်းအလဲကို လက်မခံဘဲ တောင့်ခံထားတတ်တယ်။",
+      "ငြိမ်ငြိမ်လေးနဲ့ အာခံတတ်တဲ့စရိုက်က ကိုင်တွယ်ရခက်ပါတယ်။",
+      "အချိန်ဆွဲတာများသွားရင် ဘာမှမလုပ်ဖြစ်တော့တဲ့အထိ ဖြစ်သွားနိုင်တယ်။"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "people",
+    "label": "People Focus",
+    "short": "People",
+    "shortMm": "လူမှု",
+    "mm": "လူဗဟိုပြုမှု"
+  },
+  {
+    "key": "pace",
+    "label": "Pace / Speed",
+    "short": "Pace",
+    "shortMm": "အရှိန်",
+    "mm": "အမြန်နှုန်း"
+  },
+  {
+    "key": "assert",
+    "label": "Assertiveness",
+    "short": "Assert",
+    "shortMm": "အာဏာ",
+    "mm": "တွန်းအား / အာဏာ"
+  },
+  {
+    "key": "analysis",
+    "label": "Analysis",
+    "short": "Analysis",
+    "shortMm": "ဆန်းစစ်",
+    "mm": "ဆန်းစစ်တွေးခေါ်မှု"
+  },
+  {
+    "key": "visibility",
+    "label": "Visibility",
+    "short": "Visible",
+    "shortMm": "ပေါ်လွင်",
+    "mm": "ပေါ်လွင်ပြသမှု"
+  },
+  {
+    "key": "adapt",
+    "label": "Adaptability",
+    "short": "Adapt",
+    "shortMm": "ပြောင်းလဲ",
+    "mm": "ပြောင်းလဲမှုလက်ခံ"
+  }
+]
